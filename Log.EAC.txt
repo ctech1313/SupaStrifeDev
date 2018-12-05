@@ -1,3 +1,18 @@
 12/5/2018 3:44:46 AM  [Info] [SetLogCallback] Procedure: 00000285112DFD30 LogLevel: Verbose.
 12/5/2018 3:44:46 AM  [Info] [Initialize] ServerName: 'My Server'.
 12/5/2018 3:44:46 AM  [Error] [Cerberus] [LogEvent] BeginFrame has not been called!
+12/5/2018 7:15:25 AM  [Info] [SetLogCallback] Procedure: 0000024C030AF9B0 LogLevel: Verbose.
+12/5/2018 7:15:25 AM  [Info] [Initialize] ServerName: 'test2'.
+12/5/2018 7:15:25 AM  [Error] [Cerberus] [LogEvent] BeginFrame has not been called!
+12/5/2018 7:15:55 AM  [Info] [RegisterClient] Client: 0000000000000001 PlayerGUID: 76561198035796453 PlayerIP: 127.0.0.1:52221 OwnerGUID: 76561198035796453 PlayerName: strife.tech
+12/5/2018 7:15:56 AM  [Info] [Cerberus] [Backend] Connection established.
+12/5/2018 7:15:58 AM  [Info] [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Message: Client authenticated.
+12/5/2018 7:15:59 AM  [Info] [SetClientNetworkState] ClientObject: 0000000000000001 NetworkActive: No.
+12/5/2018 7:15:59 AM  [Info] [Register Client] Success (1/2). Client: 0000000000000001.
+12/5/2018 7:16:01 AM  [Info] [Register Client] Success (2/2). Client: 0000000000000001
+12/5/2018 7:16:01 AM  [Info] [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+12/5/2018 7:16:07 AM  [Info] [SetClientNetworkState] ClientObject: 0000000000000001 NetworkActive: No.
+12/5/2018 7:16:07 AM  [Info] [SetClientNetworkState] ClientObject: 0000000000000001 NetworkActive: No.
+12/5/2018 7:16:07 AM  [Info] [SetClientNetworkState] ClientObject: 0000000000000001 NetworkActive: Yes.
+12/5/2018 7:16:32 AM  [Info] [UnregisterClient] Client: 0000000000000001 PlayerGUID: 76561198035796453
+12/5/2018 7:16:32 AM  [Info] [Cerberus] [Backend] Disconnected.
