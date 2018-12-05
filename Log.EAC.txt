@@ -1,0 +1,3 @@
+12/5/2018 3:44:46 AM  [Info] [SetLogCallback] Procedure: 00000285112DFD30 LogLevel: Verbose.
+12/5/2018 3:44:46 AM  [Info] [Initialize] ServerName: 'My Server'.
+12/5/2018 3:44:46 AM  [Error] [Cerberus] [LogEvent] BeginFrame has not been called!

@@ -1,0 +1,61 @@
+22:41 [Info] Loading Oxide Core v2.0.3867...
+22:41 [Info] Loading extensions...
+22:41 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+22:41 [Info] Local compiler MD5: 0
+22:41 [Info] Compiler hashes did not match, downloading latest
+22:41 [Info] Downloading Compiler.exe for .cs (C#) plugin compilation
+22:41 [Info] Local hash did not match remote hash for Compiler.exe, attempting download again
+22:41 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+22:41 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+22:41 [Info] Loaded extension CSharp v2.0.3913 by Oxide and Contributors
+22:41 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+22:41 [Info] Loaded extension Rust v2.0.4086 by Oxide and Contributors
+22:41 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+22:41 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+22:41 [Info] Using Covalence provider for game 'Rust'
+22:41 [Info] Loading plugins...
+22:41 [Info] Loaded plugin Rust v2.0.4086 by Oxide and Contributors
+22:41 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+22:42 [Info] AutoFuel, Kits, NoGiveNotices, RemoverTool and StackSizeController were compiled successfully in 2235ms
+22:42 [Info] Loaded plugin Auto Fuel v1.0.8 by redBDGR
+22:42 [Info] Loaded plugin Kits v3.2.93 by Reneb
+22:42 [Info] Loaded plugin No Give Notices v0.2.0 by Wulf/lukespragg
+22:42 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+22:42 [Warning] [Stack Size Controller] Creating a new configuration file.
+22:42 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+22:43 [Info] Loading Oxide Core v2.0.3867...
+22:43 [Info] Loading extensions...
+22:43 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+22:43 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+22:43 [Info] Loaded extension CSharp v2.0.3913 by Oxide and Contributors
+22:43 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+22:43 [Info] Loaded extension Rust v2.0.4086 by Oxide and Contributors
+22:43 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+22:43 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+22:43 [Info] Using Covalence provider for game 'Rust'
+22:43 [Info] Loading plugins...
+22:43 [Info] Loaded plugin Rust v2.0.4086 by Oxide and Contributors
+22:43 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+22:43 [Info] AutoFuel, BGrade, BotSpawn, Kits, NoGiveNotices, RemoverTool and StackSizeController were compiled successfully in 2189ms
+22:43 [Info] Loaded plugin Auto Fuel v1.0.8 by redBDGR
+22:43 [Warning] [BGrade] Generating default configuration file...
+22:43 [Warning] [BGrade] Updated configuration file with new/changed values.
+22:43 [Info] Loaded plugin BGrade v1.0.49 by Ryan
+22:43 [Info] [BotSpawn] Creating new config file.
+22:43 [Info] Loaded plugin BotSpawn v1.8.3 by Steenamaroo
+22:43 [Info] Loaded plugin Kits v3.2.93 by Reneb
+22:43 [Info] Loaded plugin No Give Notices v0.2.0 by Wulf/lukespragg
+22:43 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+22:43 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+22:44 [Info] IP address from external API: 24.168.255.231
+22:44 [Warning] Calling 'OnServerInitialized' on 'BotSpawn v1.8.3' took 128ms
+22:44 [Info] [RemoverTool] RemoverTool: Rust:IO is not present. You need to install Rust:IO first in order to use the RustIO option!
+22:44 [Warning] Calling 'OnServerInitialized' on 'RemoverTool v4.2.10' took 140ms
+22:44 [Warning] [Stack Size Controller] Updating configuration file with new values.
+22:44 [Info] Unloaded plugin Auto Fuel v1.0.8 by redBDGR
+22:44 [Info] Unloaded plugin BGrade v1.0.49 by Ryan
+22:44 [Info] Unloaded plugin BotSpawn v1.8.3 by Steenamaroo
+22:44 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+22:44 [Info] Unloaded plugin No Give Notices v0.2.0 by Wulf/lukespragg
+22:44 [Info] Unloaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+22:44 [Info] Unloaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
